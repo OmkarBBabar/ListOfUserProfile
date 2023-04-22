@@ -1,0 +1,26 @@
+h1 {
+    /* background-color: aqua; */
+    text-align: center;
+    color: rgb(40, 108, 197);
+    text-shadow: 2px 2px 2px black;
+    
+}
+
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+    text-align: center;
+    color: orange;
+    text-shadow: 1px 0 black, 0 1px black, 1px 0 black, 0 1px black ;
+    font-weight: bold;
+    /* background-color: antiquewhite; */
+    /* border: 2px solid royalblue; */
+  }
+    
+  th, td {
+    box-shadow: 5px 5px 5px lightblue;
+  }
+  td :hover {
+    border: 2px solid royalblue;
+  }
+  

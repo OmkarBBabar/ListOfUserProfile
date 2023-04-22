@@ -1,0 +1,46 @@
+{
+    "users": [
+        {
+          "id":1,
+          "profile_image": "./images/yuvi.jpg",
+          "name": "Yuvraj Singh",
+          "city": "Punjab",
+          "rating": 5
+        },
+        {
+          "id":2,
+          "profile_image": "./images/dhoni.jpg",
+          "name": "M.S.Dhoni",
+          "city": "Ranchi",
+          "rating": 5
+        },
+        {
+          "id":3,
+          "profile_image": "./images/Virat.jpeg",
+          "name": "Virat Kohli",
+          "city": "Delhi",
+          "rating": 5
+        },
+        {
+          "id":4,
+          "profile_image": "./images/bhuvi.jpeg",
+          "name": "Bhuvneshwar Kumar",
+          "city": "Merut",
+          "rating": 5
+        },
+        {
+          "id":5,
+          "profile_image": "./images/rohit.jpeg",
+          "name": "Rohit Sharma",
+          "city": "Nagpur",
+          "rating": 5
+        },
+        {
+          "id":6,
+          "profile_image": "./images/raina.jpeg",
+          "name": "Suresh Raina",
+          "city": "Muradnagar",
+          "rating": 5
+        }
+      ]
+    }
